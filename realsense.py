@@ -1,7 +1,7 @@
 
-Import tensorflow API on your PC :git clone https://github.com/tensorflow/models.git
+## Import tensorflow API on your PC :git clone https://github.com/tensorflow/models.git
 
-run below script in the object_detection folder: https://github.com/tensorflow/models/tree/master/research/object_detection
+## run below script in the object_detection folder: https://github.com/tensorflow/models/tree/master/research/object_detection
 
 
 import pyrealsense2 as rs
